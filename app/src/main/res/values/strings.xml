@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JTR Camera Test App</string>
+    <string name="take_picture">take_picture</string>
+</resources>
